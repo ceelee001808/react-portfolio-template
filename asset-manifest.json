@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.52762df1.css",
-    "main.js": "/portfolio/static/js/main.9c0f3ba4.js",
-    "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
-    "static/media/portrait.png": "/portfolio/static/media/portrait.bdb48a5c68e346718a40.png",
-    "static/media/tesla.png": "/portfolio/static/media/tesla.b6f282d0b8539d226470.png",
-    "static/media/evpotentialvisual.jpeg.png": "/portfolio/static/media/evpotentialvisual.jpeg.5cb00be15969ccb7d57b.png",
-    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/housingbills.png": "/portfolio/static/media/housingbills.8f8ec50f94ac419ecb5d.png",
-    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/uber.png": "/portfolio/static/media/uber.340168c73bbb7e2f69eb.png",
-    "index.html": "/portfolio/index.html",
-    "main.52762df1.css.map": "/portfolio/static/css/main.52762df1.css.map",
-    "main.9c0f3ba4.js.map": "/portfolio/static/js/main.9c0f3ba4.js.map",
-    "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/ceelee001808github.io/static/css/main.a68aaf2d.css",
+    "main.js": "/ceelee001808github.io/static/js/main.965f7785.js",
+    "static/js/453.b05d8aa5.chunk.js": "/ceelee001808github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/portrait.png": "/ceelee001808github.io/static/media/portrait.bdb48a5c68e346718a40.png",
+    "static/media/tesla.png": "/ceelee001808github.io/static/media/tesla.b6f282d0b8539d226470.png",
+    "static/media/evpotentialvisual.jpeg.png": "/ceelee001808github.io/static/media/evpotentialvisual.jpeg.5cb00be15969ccb7d57b.png",
+    "static/media/bg-light.png": "/ceelee001808github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/housingbills.png": "/ceelee001808github.io/static/media/housingbills.8f8ec50f94ac419ecb5d.png",
+    "static/media/bg-dark.png": "/ceelee001808github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/uber.png": "/ceelee001808github.io/static/media/uber.340168c73bbb7e2f69eb.png",
+    "index.html": "/ceelee001808github.io/index.html",
+    "main.a68aaf2d.css.map": "/ceelee001808github.io/static/css/main.a68aaf2d.css.map",
+    "main.965f7785.js.map": "/ceelee001808github.io/static/js/main.965f7785.js.map",
+    "453.b05d8aa5.chunk.js.map": "/ceelee001808github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52762df1.css",
-    "static/js/main.9c0f3ba4.js"
+    "static/css/main.a68aaf2d.css",
+    "static/js/main.965f7785.js"
   ]
 }
