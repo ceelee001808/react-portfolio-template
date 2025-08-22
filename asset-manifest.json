@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-template/static/css/main.f19fb152.css",
+    "main.js": "/react-portfolio-template/static/js/main.42468485.js",
+    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js",
+    "static/media/portrait.png": "/react-portfolio-template/static/media/portrait.bdb48a5c68e346718a40.png",
+    "static/media/tesla.png": "/react-portfolio-template/static/media/tesla.b6f282d0b8539d226470.png",
+    "static/media/evpotentialvisual.jpeg.png": "/react-portfolio-template/static/media/evpotentialvisual.jpeg.5cb00be15969ccb7d57b.png",
+    "static/media/bg-light.png": "/react-portfolio-template/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/housingbills.png": "/react-portfolio-template/static/media/housingbills.8f8ec50f94ac419ecb5d.png",
+    "static/media/bg-dark.png": "/react-portfolio-template/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/uber.png": "/react-portfolio-template/static/media/uber.340168c73bbb7e2f69eb.png",
+    "index.html": "/react-portfolio-template/index.html",
+    "main.f19fb152.css.map": "/react-portfolio-template/static/css/main.f19fb152.css.map",
+    "main.42468485.js.map": "/react-portfolio-template/static/js/main.42468485.js.map",
+    "453.b05d8aa5.chunk.js.map": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19fb152.css",
+    "static/js/main.42468485.js"
+  ]
+}
